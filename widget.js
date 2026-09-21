@@ -28,7 +28,7 @@
 */
 
 (function () {
-  const API_BASE = 'https://shopify-otp-checkout.vercel.app/api';
+  const API_BASE = 'https://shopify-otp-checkout-ruby.vercel.app/api';
 
   let verifiedEmail = null;
 
